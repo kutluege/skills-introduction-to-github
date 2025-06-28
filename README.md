@@ -1,37 +1,23 @@
+# Hi there, I'm Ege Kutlu! 👋
 
-<div align="center">
+Welcome to my GitHub profile!
 
-# 🎉 Congratulations kutluege! 🎉
+## 👨‍💻 About Me
 
-<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
+Hey! I'm Ege Kutlu, currently pursuing my master’s degree at Boğaziçi University, specializing in Artificial Intelligence and Data Science. When I'm not buried under a pile of research papers or tweaking code at midnight, you'll find me exploring the fascinating world of AI agents and algorithmic trading. 
 
-### 🌟 You've successfully completed the exercise! 🌟
+I love building smart systems that can make decisions, learn from data, and even trade in the markets faster (and hopefully smarter!) than any human. My curiosity often takes me from designing deep neural networks to experimenting with new agent architectures and backtesting trading strategies. 
 
-## 🚀 Share Your Success!
+I'm always open to collaboration, sharing ideas, or just nerding out about the latest AI trends.
+## ⚡ Languages, Libraries & Tools
 
-**Show off your new skills and inspire others!**
+- **Languages:** C++, Python, Visual Basic, HTML, CSS, R
+- **Libraries/Frameworks:** Langgraph, Langchain, TensorFlow, PyTorch, Backtrader, OpenCV
 
-<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fkutluege%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
-</a>
-<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fkutluege%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
-</a>
-<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Introduction%20to%20GitHub%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fkutluege%2Fskills-introduction-to-github%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
-</a>
+## 📫 Connect with Me
 
-### 🎯 What's Next?
-**Keep the momentum going!**
-
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/kutluege/skills-introduction-to-github/issues/1)
-[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://skills.github.com)
-
-*There's no better way to learn than building things!* 🚀
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/kutluege/)
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+Let's connect, collaborate, and build something awesome together!
