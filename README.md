@@ -1,4 +1,4 @@
-# Hi there, I'm Ege Kutlu! 👋
+# Hi there, I'm Ege!
 
 Welcome to my GitHub profile!
 
